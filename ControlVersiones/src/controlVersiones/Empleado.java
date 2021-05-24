@@ -10,6 +10,7 @@ public Empleado(String nombre, String apellido, double salario) {
 	this.nombre = nombre;
 	this.apellidos = apellido;
 	this.salario = salario;
+	//cambio
 }
 
 
